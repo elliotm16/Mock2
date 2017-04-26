@@ -1,0 +1,11 @@
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Pupils.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Pupils.pdb
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\Pupils.xml
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\Pupils.Resources.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\Pupils.Pupils.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\Pupils.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\Pupils.xml
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\Pupils.pdb
